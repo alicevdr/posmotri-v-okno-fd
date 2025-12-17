@@ -109,7 +109,6 @@ ol {
   display: flex;
   flex-direction: column;
   gap: 30px;
-  margin-bottom: 30px;
 }
 
 .content__list-item:last-of-type {
@@ -187,6 +186,7 @@ ol {
 .more-button {
   width: 100%;
   cursor: pointer;
+  margin-top:30px;
 }
 
 .content__video-card-description {
